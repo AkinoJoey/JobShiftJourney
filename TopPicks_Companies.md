@@ -1,7 +1,7 @@
 # 希望の会社リスト
 
 - [株式会社ソニックガーデン](https://www.sonicgarden.jp/join_us)
-- [株式会社smartHR](https://open.talentio.com/r/1/c/smarthr/pages/82214?_ga=2.63070127.185109308.1697336581-1086745603.1697008488)
+- [株式会社SmartHR](https://open.talentio.com/r/1/c/smarthr/pages/82214?_ga=2.63070127.185109308.1697336581-1086745603.1697008488)
 - [サイボウズ株式会社](https://cybozu.co.jp/recruit/entry/career/software-engineer-php.html)
 - [株式会社LiB](https://herp.careers/v1/libcorp/7hL1CIcDKbsl)
 - [かっこ株式会社](https://cacco.co.jp/recruitment/recruit/career.html)
