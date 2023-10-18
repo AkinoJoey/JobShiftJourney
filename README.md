@@ -6,7 +6,11 @@
 ## 中間目標
 ☑ ~~希望の会社を10個リストアップする~~  
 ☐ 履歴書に載せるポートフォリオのReadmeを書く  
-☐ Backend Project5を完成させる（リリースされ次第）
+☐ Backend Project5を完成させる（リリースされ次第）  
+☐ バックエンドフレームワークの学習（Ruby on Rails, Djangoなど）  
+☐ 履歴書の作成  
+☐ 面接対策
+
 
 ## 下位目標
 ☑ ~~video-compressor-serviceのReadmeを作成する~~  
