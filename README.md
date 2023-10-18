@@ -9,7 +9,7 @@
 ☐ Backend Project5を完成させる（リリースされ次第）
 
 ## 下位目標
-☐ video-compressor-serviceのReadmeを作成する  
+☑ ~~video-compressor-serviceのReadmeを作成する~~  
 ☐ MarkdownToHTMLのReadmeを作成する  
 ☐ PlantUMLServerのReadmeを作成する  　
 
@@ -26,3 +26,4 @@
   - MarkdownToHTML
   - video-compressor-service
   - Online_Chat_Messenger(Team)
+- video-compressor-serviceのReadmeを作成した
