@@ -20,7 +20,7 @@
 ## 進捗状況
 1週間毎の進捗状況を記録します。  
 
-### 2023/10/15 ~ 2023/10/22
+### 2023/10/15 ~ 2023/10/21
 - 1 on 1ミーティング
 - 会社探し
 - [希望の会社を10個リストアップした](https://github.com/AkinoJoey/JobShiftJourney/blob/main/TopPicks_Companies.md)
@@ -32,3 +32,4 @@
   - Online_Chat_Messenger(Team)
 - video-compressor-serviceのReadmeを作成した
 - MarkdownToHTMLのReadmeを作成した
+- PlantUMLServerの修正
