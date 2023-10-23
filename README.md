@@ -15,13 +15,13 @@
 ## 下位目標
 ☑ ~~video-compressor-serviceのReadmeを作成する~~  
 ☑ ~~MarkdownToHTMLのReadmeを作成する~~   
-☐ PlantUMLServerのReadmeを作成する  　
+☑ ~~PlantUMLServerのReadmeを作成する~~　
 
 ## 進捗状況
 1週間毎の進捗状況を記録します。  
 
 ### 2023/10/15 ~ 2023/10/21
-- 1 on 1ミーティング
+- 1 on 1ミーティング(1回目)
 - 会社探し
 - [希望の会社を10個リストアップした](https://github.com/AkinoJoey/JobShiftJourney/blob/main/TopPicks_Companies.md)
 - リストアップした会社の企業分析
@@ -33,3 +33,6 @@
 - video-compressor-serviceのReadmeを作成した
 - MarkdownToHTMLのReadmeを作成した
 - PlantUMLServerの修正
+
+### 2023/10/22 ~ 2023/10/28
+- PlantUMLServerのReadmeを作成した
