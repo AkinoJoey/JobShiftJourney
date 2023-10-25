@@ -5,9 +5,9 @@
 
 ## 中間目標
 ☑ ~~希望の会社を10個リストアップする~~  
-☐ 履歴書に載せるポートフォリオのReadmeを書く  
-☐ Backend Project5を完成させる（リリースされ次第）  
-☐ バックエンドフレームワークの学習（Ruby on Rails, Djangoなど）  
+☐ ポートフォリオのReadmeを書く  
+☐ 3 tier archtecture (Project 5)  
+☐ 3 tier Project with Framework(Ruby on Rails)  
 ☐ 履歴書の作成  
 ☐ 面接対策
 
@@ -21,7 +21,7 @@
 1週間毎の進捗状況を記録します。  
 
 ### 2023/10/15 ~ 2023/10/21
-- 1 on 1ミーティング(1回目)
+- 1 on 1 ミーティング(1回目)
 - 会社探し
 - [希望の会社を10個リストアップした](https://github.com/AkinoJoey/JobShiftJourney/blob/main/TopPicks_Companies.md)
 - リストアップした会社の企業分析
@@ -36,3 +36,4 @@
 
 ### 2023/10/22 ~ 2023/10/28
 - PlantUMLServerのReadmeを作成した
+- 1 on 1 ミーティング(2回目、スキル評価)
