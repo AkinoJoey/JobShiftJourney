@@ -5,7 +5,7 @@
 
 ## 中間目標
 ☑ ~~希望の会社を10個リストアップする~~  
-☐ ポートフォリオのReadmeを書く  
+☑ ~~ポートフォリオのReadmeを書く~~  
 ☐ 3 tier archtecture (Project 5)  
 ☐ 3 tier Project with Framework(Ruby on Rails)  
 ☐ 履歴書の作成  
@@ -37,3 +37,8 @@
 ### 2023/10/22 ~ 2023/10/28
 - PlantUMLServerのReadmeを作成した
 - 1 on 1 ミーティング(2回目、スキル評価)
+- 3 tier Project with Framework(Ruby on Rails) のアイディア出し
+- 3 tier archtecture (Project 5)  の「サーバとデータ層」から「スキーマ管理(2)」まで進んだ
+
+### 2023/10/29 ~ 2023/11/04
+  
