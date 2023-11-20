@@ -47,7 +47,7 @@
 - 3 tier archtecture (Project 5)  の「URLルーティング(1)」から「クライアントサーバでのレンダリング(6)」まで進んだ
 
 ### 2023/11/12 ~ 2023/11/18
-- Text Snippet Sharing Serviceの機能要件を満たすところまで完成。後はリファクタリングと本番環境へのアップ
-
+- Text Snippet Sharing Serviceの機能要件を満たすところまで完成
+  
 ### 2023/11/19 ~ 2023/11
 - Text Snippet Sharing Serviceのリファクタリング、本番環境へのアップ
