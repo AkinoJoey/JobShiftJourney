@@ -49,5 +49,6 @@
 ### 2023/11/12 ~ 2023/11/18
 - Text Snippet Sharing Serviceの機能要件を満たすところまで完成
   
-### 2023/11/19 ~ 2023/11
+### 2023/11/19 ~ 2023/11/25
 - Text Snippet Sharing Serviceのリファクタリング、本番環境へのアップ
+- Online Image Hosting Serviceでサーバーのファイルシステムに画像をuploadするところまで進んだ
