@@ -52,3 +52,7 @@
 ### 2023/11/19 ~ 2023/11/25
 - Text Snippet Sharing Serviceのリファクタリング、本番環境へのアップ
 - Online Image Hosting Serviceでサーバーのファイルシステムに画像をuploadするところまで進んだ
+
+### 2023/11/26 ~ 2023/12/2
+- Online Image Hosting Serviceほぼ完成。残りはcronによるアクセス計算チェックと本番環境へのアップ
+- DAO(1) ~ DAOによるデータ操作(3)
