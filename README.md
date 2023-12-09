@@ -56,3 +56,8 @@
 ### 2023/11/26 ~ 2023/12/2
 - Online Image Hosting Serviceほぼ完成。残りはcronによるアクセス計算チェックと本番環境へのアップ
 - DAO(1) ~ DAOによるデータ操作(3)
+
+### 2023/12/3 ~ 2023/12/9
+- OnlineImage Hosting Serviveの完成。本番環境へのアップ、READMEの作成。
+- DAO(4)
+  
