@@ -73,6 +73,9 @@
 - メモリ内ストレージとmemcached(1) ~ メモリ内ストレージとmemcached(3)
 - OnlineImage Hosting Serviveの修正
 
-### 2023/12/31 ~ 2023/1/6
+### 2023/12/31 ~ 2024/1/6
 - OnlineImage Hosting Serviveの修正
 - ORM(1) ~ ORM(4)
+
+### 2024/1/7 ~ 2024/1/13
+- ORMの拡張 ~ Email Verification Systemの途中
