@@ -79,3 +79,7 @@
 
 ### 2024/1/7 ~ 2024/1/13
 - ORMの拡張 ~ Email Verification Systemの途中
+
+### 2024/1/14 ~ 2024/1/20
+- Email Verification Systemの完成
+- SocialNetworkingServiceの要件モデリング、フロントエンド設計
