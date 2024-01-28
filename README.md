@@ -83,3 +83,8 @@
 ### 2024/1/14 ~ 2024/1/20
 - Email Verification Systemの完成
 - SocialNetworkingServiceの要件モデリング、フロントエンド設計
+
+### 2024/1/21 ~ 2024/1/27
+- SocialNetworkingServiceのフロントエンド作成
+- SocialNetworkingServiceの開発環境構築（npm, composer, webpack）
+- SocialNetworkingServiceのフレームワーク設計（エントリーポイントの作成、ルーティングの作成など）
