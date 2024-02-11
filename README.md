@@ -89,5 +89,8 @@
 - SocialNetworkingServiceの開発環境構築（npm, composer, webpack）
 - SocialNetworkingServiceのフレームワーク設計（エントリーポイントの作成、ルーティングの作成など）
 
-### 2024/01/28 ~ 2024/2/26
+### 2024/01/28 ~ 2024/2/3
 - SocialNetworkingServiceの実装（アカウント作成、ログイン、ミドルウェア、投稿作成）
+
+### 2024/2/4 ~ 2024/2/10
+- SocialNetworkingServiceの実装(いいね機能、フォロー機能、フォローしたユーザーの投稿を閲覧できる機能の実装）
